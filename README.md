@@ -22,3 +22,5 @@ HowTo:
 - Include the script into task scheduler to have it executed automatically. Create the scheduled task to be run as Administrator.
 - All subfolders in the defined Push root folder will be processed.
 - new folders in the Push root folders are included automatically
+
+If you have issues, please dm me on my email address or raise an issue in Github.
