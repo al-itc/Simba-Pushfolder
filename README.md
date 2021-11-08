@@ -2,8 +2,8 @@
 Author: Andreas Landry (a.landry@allaround-it.de)
 
 Release notes:
-Version 1.1: Original published version. 
-Version 1.2: Added differntiation between 'Dokumentenimport' and 'Belegeimport'
+Version 1.1 - Original published version.
+Version 1.2 - Added differntiation between 'Dokumentenimport' and 'Belegeimport'
 
 The script is provided "AS IS" with no warranties.
 
@@ -51,8 +51,8 @@ If you have issues, please dm me on my email address or raise an issue on Github
 Author: Andreas Landry (a.landry@allaround-it.de)
 
 Release notes:
-Version 1.0: Original published version.
-Version 1.1: Added different Folder structure in Push Root Folder
+Version 1.0 - Original published version.
+Version 1.1 - Added different Folder structure in Push Root Folder
 
 The script is provided "AS IS" with no warranties.
 
