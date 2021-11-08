@@ -71,7 +71,7 @@ HowTo:
 - Export mandates from the Simba Client by using "Zentrale Dienste" -> "Datenverwaltung" -> "Stammdatentransfer" -> "Stammdaten exportieren (Mandantenstamm)"
 - Save the Export to file named "mandanten.csv" into a folder of your choice
 - define the same folder into the variable "$csvpath"
-- edit the CSV with Notepad:
+- edit the CSV with Notepad++:
 1. Convert to UTF8
 2. Remove invalid characters for foldernames (like ")
 - define $dip and $bup variables to match the one being used in "pushfolder.ps1"
