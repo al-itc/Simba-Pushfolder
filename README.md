@@ -4,6 +4,7 @@ Script: Pushfolder.ps1
 
 Release notes:
 Version 1.1: Original published version. 
+Version 1.2: Added differntiation between 'Dokumentenimport' and 'Belegeimport'
 
 The script is provided "AS IS" with no warranties.
 
