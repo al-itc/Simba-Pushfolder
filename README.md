@@ -1,12 +1,31 @@
-Version: 1.1
+# Simba Pushfolder #
 Author: Andreas Landry (a.landry@allaround-it.de)
-Script: Pushfolder.ps1
 
 Release notes:
 Version 1.1: Original published version. 
 Version 1.2: Added differntiation between 'Dokumentenimport' and 'Belegeimport'
 
 The script is provided "AS IS" with no warranties.
+
+## Version 1.2 ##
+
+Requirements:
+- Windows Powershell
+- definition of the folders
+- Existing Folders (Variables)
+- no elevation required
+
+Description:
+This Script renames specific files from subfolders of a source folder and adds prefixes to the files (Subfoldername). The renamed files will get moved to Target folders. A logfile is created.
+
+HowTo:
+- create and define folders (Variables)
+- add or remove file extensions appropriate to your requirements (file types)
+- Include the script into task scheduler to have it executed automatically
+- All subfolders in the defined Push root folders will be processed.
+- new folders in the Push root folders are included automatically
+
+## Version 1.1 ##
 
 Requirements:
 - Windows Powershell
